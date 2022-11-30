@@ -1,2 +1,3 @@
 def hello():
-   return x+y
+   print("Hello World")
+hello()
